@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(42, 135, 179);
+    color: rgb(255, 255, 255);
+    line-height: 1.6;
+}
+header{
+    background-color: rgb(63, 63, 114);
+    color: rgb(255, 255, 255);
+    padding: 20px 20px;
+}
+.perfil{
+    display: flex;
+    align-items: center;
+    gap:30px;
+    justify-content: center;
+}
+.imagenes{
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    color: rgb(255, 255, 255);
+    border-color: blueviolet solid 15px;
+}
+.boton{
+    margin-top: 10px;
+    display: inline-block;
+    background-color: black;
+    color: bisque;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.principal{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    align-items: center;
+    
+    
+
+    
+
+}
+.educacionsesion{
+    width: 90%;
+    margin: auto;
+    
+}
+.educacioncontenedor{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.educacioncenter {
+    background-color: #6096d4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px ;
+}
+.seccion-2{
+    width: 90%;
+}
+.descripcion{
+    color: rgb(255, 255, 255);
+    font-size: 6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cuadro1{
+    width: 1250px;
+    margin:auto;
+}
+.contenedor1{
+    display: flex;
+    gap: 25px;
+}
+.center{
+    background-color: rgb(85, 75, 94);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px;
+}
+.descricion{
+    color: rgb(255, 255, 255);
+    font-size: 6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cuadro1{
+    width: 1250px;
+    margin:auto;
+}
+.contenedor1{
+    display: flex;
+    gap: 25px;
+}
+.center{
+    background-color: rgb(85, 75, 94);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px;
+}
+.descricion{
+    color: rgb(255, 255, 255);
+    font-size: 6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cuadro1{
+    width: 1250px;
+    margin:auto;
+}
+.contenedor1{
+    display: flex;
+    gap: 25px;
+}
+.center{
+    background-color:rgb(85, 75, 94);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px;
+}
+.descricion{
+    color: rgb(255, 255, 255);
+    font-size: 6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cuadro1{
+    width: 25%;
+    height: 25%;
+    margin:auto;
+}
+.contenedor1 {
+    width: 25%;
+    height: 25%;
+    display: flex;
+    gap: 25px;
+}
+.center{
+    background-color: rgb(85, 75, 94);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px;
+}
+.descricion{
+    color: rgb(255, 255, 255);
+    font-size: 6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.papa{
+    display: flex;
+    justify-content:center;
+    gap: 50px;
+    
+    
+}
+.dentro{
+    background-color: rgb(28, 28, 73);
+    width: 25%;
+    padding: 1rem;
+    
+}
+
+.descripcion{
+    
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-height: 200px;
+    overflow: hidden;
+    font-size: 15px;
+    
+}.selector{
+    width: 90%;
+    margin: auto;
+}
+.porcentajes{
+      display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+.cuadritos{
+    background-color: #6096d4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px ;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.logo{
+    background-color: #6096d4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px ;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
